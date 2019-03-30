@@ -1,2 +1,5 @@
 # Jupyter notebook 'system' files
 **/.ipynb_checkpoints/
+
+# Tests
+/notebooks/test.ipynb
