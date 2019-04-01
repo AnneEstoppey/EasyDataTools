@@ -1,6 +1,7 @@
 # EasyDataTools
 Repository with friendly workflows in Jupyter Notebooks to work with mainly wellbore datasets from Norwegian Petroleum Directorate (NPD, public data, API). 
 #
+## Geospatialisation
 In the following notebook:
 ```
 /notebook/geospatialisation_well_data_norge.ipynb
@@ -24,6 +25,7 @@ Click [HERE](https://api.mapbox.com/styles/v1/annee/cjtxe6kxk2n9v1fpiqravigpi.ht
 <img src="images/MapBox_wells_with_Triassic.jpg" width="700">
 <br>
 #
+## Visualisation - wells stack bar graph
 In the following notebook:
 ```
 /notebook/well_data_norge_API_altair_graph.ipynb
