@@ -1,6 +1,7 @@
 # EasyDataTools
 Repository with friendly workflows in Jupyter Notebooks to work with mainly wellbore datasets from Norwegian Petroleum Directorate (NPD, public data, API). 
 #
+## Geospatialisation
 In the following notebook:
 ```
 /notebook/geospatialisation_well_data_norge.ipynb
@@ -19,11 +20,12 @@ we will work with both the Exploration wellbore and the lithostratigraphy datase
 5. The resulting is a dataframe for all Explorations wells in North Sea and Norwegian Sea, with Formation, Group and Age for each row. Each row also has coordinates, which will allow us to export to a point SHAPEFILE and examine our dataset in a geospatial context, here we are using MAPBOX.
 
 ### Display in MapBox - wells with Triassic
-Click [HERE](https://api.mapbox.com/styles/v1/annee/cjtxe6kxk2n9v1fpiqravigpi.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5uZWUiLCJhIjoiY2puYng1ZjNlMDU3djN2c2YxdGxqeTk5biJ9.Iq8vP18GcAukiVpWNqJ5Pg#5.5/59.620860/7.760410/0) to open map.
+Click [HERE](https://api.mapbox.com/styles/v1/annee/cjtxe6kxk2n9v1fpiqravigpi.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5uZWUiLCJhIjoiY2puYng1ZjNlMDU3djN2c2YxdGxqeTk5biJ9.Iq8vP18GcAukiVpWNqJ5Pg#5.5/59.620860/7.760410/0) to open map in MapBox.
 <br>
-<img src="images/MapBox_wells_with_Triassic.jpg" width="900">
+<img src="images/MapBox_wells_with_Triassic.jpg" width="700">
 <br>
 #
+## Visualisation - wells stack bar graph
 In the following notebook:
 ```
 /notebook/well_data_norge_API_altair_graph.ipynb
