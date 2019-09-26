@@ -1,5 +1,6 @@
 name: env_myrepo
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - altair=3.2.0=py37_0
