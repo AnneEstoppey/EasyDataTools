@@ -33,22 +33,22 @@ dependencies:
   # - openssl
   - pandas=0.25.1
   - pip
-  - pycparser
-  - pyopenssl
-  - pyrsistent
-  - pysocks
-  - python
-  - python-dateutil
-  - pytz
-  - readline
+  ## - pycparser
+  ## - pyopenssl
+  ## - pyrsistent
+  ## - pysocks
+  ## - python
+  ## - python-dateutil
+  ## - pytz
+  ## - readline
   - requests
-  - setuptools
-  - six
-  - sqlite
-  - tk
-  - toolz
-  - urllib3
-  - wheel
-  - xz
-  - zlib
+  ## - setuptools
+  ## - six
+  ## - sqlite
+  ## - tk
+  ## - toolz
+  ## - urllib3
+  ## - wheel
+  ## - xz
+  ## - zlib
 
