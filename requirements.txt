@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+altair=3.2.0=py37_0
+numpy=1.16.5=py37hacdab7b_0
+pandas=0.25.1=py37h0a44026_0
