@@ -30,6 +30,7 @@ In the following notebook:
 ```
 /notebook/well_data_norge_API_altair_graph.ipynb
 ```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnneEstoppey/EasyDataTools/master?filepath=%2Fnotebooks%2Fwell_data_norge_API_altair_graph.ipynb)
 we will work with the Exploration Wellbore Dataset from Norwegian Petroleum Directorate (NPD). The wellbore datasets are public domain. They are available [here](https://data.norge.no/data/oljedirektoratet/br%C3%B8nnbane-wellbore). <br> <br>
 We will generate several stack bar graphs, using the ALTAIR library. The graphs will show us:
 1. Status of all Exploration wells on the Norwegian Shelf since beginning of exploration, by year, number of wells and well content (oil/gas/condensate or any combination)
