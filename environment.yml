@@ -1,7 +1,7 @@
 name: env_myrepo
 channels:
   - conda-forge
-  - defaults
+  ### - defaults
 dependencies:
   - altair
   # - vega_datasets
@@ -14,10 +14,10 @@ dependencies:
   # - cffi
   # - chardet
   # - cryptography
-  - entrypoints
+  ### - entrypoints
   # - idna
   # - intel-openmp
-  - jinja2
+  ### - jinja2
   - jsonschema
   # - libcxx
   # - libcxxabi
