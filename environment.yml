@@ -28,8 +28,6 @@ dependencies:
   - mkl_fft
   - mkl_random
   - ncurses
-  - numpy
-  - numpy-base
   - openssl
   - pandas=0.25.1
   - pip
