@@ -1,0 +1,25 @@
+name: env_myrepo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - numpy
+  - requests
+  - matplotlib
+  - seaborn
+  - scipy
+  - obspy
+  - pandas==0.25.1
+  - geopandas
+  - scikit-learn
+  - verde
+  - basemap
+  - folium
+  - cartopy
+  - jupyter
+  - ipykernel
+  - pyfive
+  - pillow
+  - pint
+  - pip
