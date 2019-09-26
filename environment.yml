@@ -104,4 +104,8 @@ dependencies:
   - xz=5.2.4
   - zeromq=4.3.2
   - zlib=1.2.11
-
+  - pip:
+    - libgfortran=3.0.1
+    - appnope=0.1.0
+    - libcxx=4.0.1
+    - libcxxabi=4.0.1
