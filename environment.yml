@@ -5,6 +5,7 @@ channels:
 dependencies:
   - altair
   - vega_datasets
+  - vega
   - asn1crypto
   - attrs
   - blas
