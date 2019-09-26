@@ -1,0 +1,27 @@
+name: python37
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair=3.2.0=py37_0
+  - numpy=1.16.5=py37hacdab7b_0
+  - numpy-base=1.16.5=py37h6575580_0
+  - pandas=0.25.1=py37h0a44026_0
+  - pandoc=2.2.3.2=0
+  - pandocfilters=1.4.2=py37_1
+  
+  - pip:
+    - branca==0.3.1
+    - chroma-py==0.1.0.dev1
+    - colour==0.1.5
+    - folium==0.10.0
+    - geojson==2.5.0
+    - ipyleaflet==0.11.2
+    - ipywidgets==7.5.1
+    - nssjson==0.7
+    - python-graphviz==0.13
+    - traittypes==0.2.1
+    - widgetsnbextension==3.5.1
+    - xarray==0.13.0
+prefix: /anaconda3/envs/python37
+
