@@ -4,22 +4,51 @@ channels:
   - defaults
 dependencies:
   - altair
+  - asn1crypto
+  - attrs
+  - blas
+  - ca-certificates
+  - certifi
+  - cffi
+  - chardet
+  - cryptography
+  - entrypoints
+  - idna
+  - intel-openmp
+  - jinja2
+  - jsonschema
+  - libcxx
+  - libcxxabi
+  - libedit
+  - libffi
+  - libgfortran
+  - markupsafe
+  - mkl
+  - mkl-service
+  - mkl_fft
+  - mkl_random
+  - ncurses
   - numpy
-  - requests
-  - matplotlib
-  - seaborn
-  - scipy
-  - obspy
-  - pandas==0.25.1
-  - geopandas
-  - scikit-learn
-  - verde
-  - basemap
-  - folium
-  - cartopy
-  - jupyter
-  - ipykernel
-  - pyfive
-  - pillow
-  - pint
+  - numpy-base
+  - openssl
+  - pandas=0.25.1
   - pip
+  - pycparser
+  - pyopenssl
+  - pyrsistent
+  - pysocks
+  - python
+  - python-dateutil
+  - pytz
+  - readline
+  - requests
+  - setuptools
+  - six
+  - sqlite
+  - tk
+  - toolz
+  - urllib3
+  - wheel
+  - xz
+  - zlib
+
