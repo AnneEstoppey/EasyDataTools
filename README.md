@@ -38,5 +38,5 @@ We will generate several stack bar graphs, using the ALTAIR library. The graphs 
 2. Status of Exploration wells between 1980 and 2019, by region: NORTH SEA, NORWEGIAN SEA and BARENTS SEA
 
 We wished to make this notebook easy to follow so that anybody could understand the different steps of data wrangling to finally the stack bar graphs. We hope you enjoy its simplicity! <br><br>
-<img src="images/NPD_wellbore_altair_graph1_M.jpg" width="900">
+<img src="images/NPD_wellbore_altair_graph1_M_v2.jpg" width="900">
 
