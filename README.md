@@ -11,6 +11,7 @@ we will create an interactive map with Folium. We worked with clustered markers,
 The datasets are shapefiles coming from the Norwegian Petroleum Directorate, which is public data, and can be found [here](https://www.npd.no/en/about-us/information-services/available-data/map-services/). We used the wells and the production licences shapefiles.
 
 This is a first version of this notebook, and we hope to add more functionalities in future. 
+
 <br>
 <img src="images/folium_map_view1.jpg" width="700">
 <br>
