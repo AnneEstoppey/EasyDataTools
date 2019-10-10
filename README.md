@@ -12,6 +12,14 @@ The datasets are shapefiles coming from the Norwegian Petroleum Directorate, whi
 
 This is a first version of this notebook, and we hope to add more functionalities in future. 
 
+<br>
+<img src="images/folium_map_view1.jpg" width="700">
+<br>
+
+<br>
+<img src="images/folium_map_view2.jpg" width="700">
+<br>
+
 ## Geospatialisation - Mapbox
 In the following notebook:
 ```
