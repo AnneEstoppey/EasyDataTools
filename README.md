@@ -1,10 +1,21 @@
 # EasyDataTools
 Repository with friendly workflows in Jupyter Notebooks to work with mainly wellbore datasets from Norwegian Petroleum Directorate (NPD, public data, API). 
 #
-## Geospatialisation
+## Geospatialisation - Interactive map with Folium
 In the following notebook:
 ```
-/notebook/geospatialisation_well_data_norge.ipynb
+/notebooks/interactive_map_Folium.ipynb
+```
+we will create an interactive map with Folium. We worked with clustered markers, layers which can be switched on/off, and added a fullscreen button.
+
+The datasets are shapefiles coming from the Norwegian Petroleum Directorate, which is public data, and can be found [here] (https://www.npd.no/en/about-us/information-services/available-data/map-services/). We used the wells shapefile and the production licences shapefile.
+
+This is a first version of this notebook, and we hope to add more functionalities in future. 
+
+## Geospatialisation - Mapbox
+In the following notebook:
+```
+/notebooks/geospatialisation_well_data_norge.ipynb
 ```
 we will work with both the Exploration wellbore and the lithostratigraphy datasets from Norwegian Petroleum Directorate (NPD). The wellbore datasets are public domain. They are available [here](https://data.norge.no/data/oljedirektoratet/br%C3%B8nnbane-wellbore). We will use the API connection to get the datasets <br> <br>
 
@@ -28,7 +39,7 @@ Click [HERE](https://api.mapbox.com/styles/v1/annee/cjtxe6kxk2n9v1fpiqravigpi.ht
 ## Visualisation - wells stack bar graph
 In the following notebook:
 ```
-/notebook/well_data_norge_API_altair_graph.ipynb
+/notebooks/well_data_norge_API_altair_graph.ipynb
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnneEstoppey/EasyDataTools/master?filepath=%2Fnotebooks%2Fwell_data_norge_API_altair_graph.ipynb)
 
