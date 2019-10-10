@@ -8,7 +8,7 @@ In the following notebook:
 ```
 we will create an interactive map with Folium. We worked with clustered markers, layers which can be switched on/off, and added a fullscreen button.
 
-The datasets are shapefiles coming from the Norwegian Petroleum Directorate, which is public data, and can be found [here] (https://www.npd.no/en/about-us/information-services/available-data/map-services/). We used the wells shapefile and the production licences shapefile.
+The datasets are shapefiles coming from the Norwegian Petroleum Directorate, which is public data, and can be found [here](https://www.npd.no/en/about-us/information-services/available-data/map-services/). We used the wells shapefile and the production licences shapefile.
 
 This is a first version of this notebook, and we hope to add more functionalities in future. 
 
