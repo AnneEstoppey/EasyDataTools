@@ -18,7 +18,6 @@ This is a first version of this notebook, and we hope to add more functionalitie
 <br>
 <img src="images/folium_map_view2.jpg" width="700">
 <br>
-
 ## Geospatialisation - Mapbox
 In the following notebook:
 ```
