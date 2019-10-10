@@ -16,7 +16,7 @@ This is a first version of this notebook, and we hope to add more functionalitie
 <img src="images/folium_map_view1.jpg" width="700">
 <br>
 <img src="images/folium_map_view2.jpg" width="700">
-Open Folium map notebook in nbviewer here: https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.
+Open Folium map notebook in nbviewer here: (you'll have to run the notebook to display the map) https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.
 
 #
 ## Geospatialisation - Mapbox
