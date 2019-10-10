@@ -1,10 +1,12 @@
 # Jupyter notebook 'system' files
 **/.ipynb_checkpoints/
 
-# Tests
+# Tests & references
 /notebooks/test.ipynb
 /notebooks/well_data_norge_API_altair_graph_Copy.ipynb
 /notebooks/geospatialisation_well_data_norge_Copy.ipynb
+/notebooks/bobhaffner_notebook.ipynb
+/notebooks/interactive_map_Folium_Copy.ipynb
 
 # Previous versions of published notebooks
 /old/
