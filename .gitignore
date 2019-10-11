@@ -7,6 +7,10 @@
 /notebooks/geospatialisation_well_data_norge_Copy.ipynb
 /notebooks/bobhaffner_notebook.ipynb
 /notebooks/interactive_map_Folium_Copy.ipynb
+/notebooks/geodataframe_explode.ipynb
+
+# Test data files
+/data/prod_lic_mini.geojson
 
 # Previous versions of published notebooks
 /old/
