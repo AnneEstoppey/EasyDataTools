@@ -18,7 +18,7 @@ This is a first version of this notebook, and we hope to add more functionalitie
 <img src="images/folium_map_view2.jpg" width="700">
 Open Folium map notebook in nbviewer here: (you'll have to run the notebook to display the map) https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.<br>
 <br>
-<br>
+
 **NEW: we have created a web app with our folium map which is in the following repository:**
 https://github.com/AnneEstoppey/flask-folium-app
 
