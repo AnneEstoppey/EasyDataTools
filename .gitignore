@@ -8,6 +8,9 @@
 /notebooks/bobhaffner_notebook.ipynb
 /notebooks/interactive_map_Folium_Copy.ipynb
 /notebooks/geodataframe_explode.ipynb
+/notebooks/well_data_norge_API_altair_graph_demo.ipynb
+/notebooks/geospatialisation_well_data_norge_demo.ipynb
+/notebooks/interactive_map_Folium_demo.ipynb
 
 # Test data files
 /data/prod_lic_mini.geojson
