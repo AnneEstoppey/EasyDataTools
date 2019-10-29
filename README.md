@@ -1,4 +1,4 @@
-# GeoToolsPython
+# EasyDataTools
 Repository with friendly workflows in Jupyter Notebooks to work with mainly wellbore datasets from Norwegian Petroleum Directorate (NPD, public data, API). 
 #
 ## Geospatialisation - Interactive map with Folium
@@ -16,7 +16,11 @@ This is a first version of this notebook, and we hope to add more functionalitie
 <img src="images/folium_map_view1.jpg" width="700">
 <br>
 <img src="images/folium_map_view2.jpg" width="700">
-Open Folium map notebook in nbviewer here: (you'll have to run the notebook to display the map) https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.
+Open Folium map notebook in nbviewer here: (you'll have to run the notebook to display the map) https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.<br>
+<br>
+
+**NEW: we have created a web app with our folium map which is in the following repository:**
+https://github.com/AnneEstoppey/flask-folium-app
 
 #
 ## Geospatialisation - Mapbox
