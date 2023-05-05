@@ -13,9 +13,8 @@ The datasets are shapefiles coming from the Norwegian Petroleum Directorate, whi
 This is a first version of this notebook, and we hope to add more functionalities in future. 
 
 <br>
-<img src="images/folium_map_view1.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/35219455/236474838-f90d137a-03aa-4751-9dec-780b09379490.jpg" width="700">
 <br>
-<img src="images/folium_map_view2.jpg" width="700">
 Open Folium map notebook in nbviewer here: (you'll have to run the notebook to display the map) https://nbviewer.jupyter.org/github/AnneEstoppey/EasyDataTools/blob/master/notebooks/interactive_map_Folium.ipynb.<br>
 <br>
 
@@ -44,7 +43,7 @@ we will work with both the Exploration wellbore and the lithostratigraphy datase
 ### Display in MapBox - wells with Triassic
 Click [HERE](https://api.mapbox.com/styles/v1/annee/cjtxe6kxk2n9v1fpiqravigpi.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5uZWUiLCJhIjoiY2puYng1ZjNlMDU3djN2c2YxdGxqeTk5biJ9.Iq8vP18GcAukiVpWNqJ5Pg#5.5/59.620860/7.760410/0) to open map in MapBox.
 <br>
-<img src="images/MapBox_wells_with_Triassic.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/35219455/236475329-e8dea051-c471-4fee-ade4-57b83f18f9c8.jpg" width="700">
 <br>
 #
 ## Visualisation - wells stack bar graph
@@ -60,5 +59,5 @@ We will generate several stack bar graphs, using the ALTAIR library. The graphs 
 2. Status of Exploration wells between 1980 and 2020, by region: NORTH SEA, NORWEGIAN SEA and BARENTS SEA
 
 We wished to make this notebook easy to follow so that anybody could understand the different steps of data wrangling to finally the stack bar graphs. We hope you enjoy its simplicity! <br><br>
-<img src="images/NPD_wellbore_altair_graph1_M_v2.jpg" width="900">
+<img src="https://user-images.githubusercontent.com/35219455/236475565-76edaac0-e9f4-4cf1-bba9-4dbd462fd03e.jpg" width="900">
 
